@@ -1,0 +1,609 @@
+@media (max-width: 860px) {
+  .brpoint {
+    display: block;
+  }
+  .brpc {
+    display: none;
+  }
+  .scroll-top-btn.fas.fa-chevron-up {
+    font-size: 14px;
+    bottom: 20px;
+    right: 15px;
+    padding: 15px;
+  }
+  header .container-large .title {
+    height: 62px;
+    padding: 0;
+    position: relative;
+  }
+  header .container-large .title p {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    font-size: 10px;
+  }
+  header .container-large .title img.logo {
+    position: absolute;
+    width: 90px;
+    top: 30px;
+    left: 5px;
+  }
+  header .container-large .title a.jump-to-form {
+    display: none;
+  }
+  header .container-large .title .jump-to-form-sp {
+    display: block;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .top-wrapper {
+    margin-top: 62px;
+  }
+  .top-wrapper .top1 {
+    background-image: url(/img/mainsp.jpg);
+  }
+  .top-wrapper .top1 .container-medium .top1-container {
+    height: 312px;
+  }
+  .top-wrapper .top1 .container-medium .top1-container .first {
+    font-size: 18px;
+    margin: 0;
+  }
+  .top-wrapper .top1 .container-medium .top1-container img {
+    margin: 20px;
+    width: 90%;
+  }
+  .top-wrapper .top1 .container-medium .top1-container .second {
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .top-wrapper .top2 {
+    padding: 15px 0;
+  }
+  .top-wrapper .top2 .container-medium p.first {
+    font-size: 15px;
+  }
+  .top-wrapper .top2 .container-medium p.second span {
+    font-size: 13.5px;
+  }
+  .top-wrapper .top2 .container-medium a.btn.big.jump-to-form {
+    font-size: 20px;
+    line-height: 31px;
+    padding: 15px 20px;
+    margin: 25px 20px 10px 20px;
+  }
+  .top-wrapper .top2 .container-medium .texts p {
+    font-size: 15px;
+    letter-spacing: normal;
+    line-height: 24px;
+  }
+  .top-wrapper .top2 .container-medium .texts .third {
+    margin-bottom: 35px;
+  }
+  .top-wrapper .top2 .container-medium .texts .forth {
+    margin-bottom: 35px;
+  }
+  .top-wrapper .top2 .container-medium .texts .fifth {
+    margin-bottom: 25px;
+  }
+  .get-freedom {
+    padding: 30px 0;
+    height: inherit;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+  }
+  .get-freedom .container-small h2 {
+    width: 95%;
+    font-size: 18px;
+    line-height: 40px;
+    padding: 15px 25px 10px 25px;
+  }
+  .get-freedom .text-contents p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .introduction .container-small {
+    margin: 0 10px;
+  }
+  .introduction .container-small h2 {
+    font-size: 18px;
+    line-height: 40px;
+    padding: 30px 0 20px 0;
+  }
+  .introduction p.forcus {
+    font-size: 15px;
+    margin: 15px 0 10px 0;
+  }
+  .introduction .container-large .skills {
+    margin: 30px 20px;
+    padding: 10px;
+  }
+  .introduction .container-large .skills p.skill {
+    font-size: 15px;
+  }
+  .introduction .container-large .skills .list {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .introduction .container-large .skills .list .skill img {
+    height: 30px;
+    width: auto;
+  }
+  .introduction .container-large .skills .list .skill p {
+    font-size: 10px;
+  }
+  .about .top {
+    background-image: url(/img/aboutsecondbgsp.jpg);
+    padding: 30px;
+  }
+  .about .top h2 {
+    font-size: 18px;
+  }
+  .about .top p {
+    font-size: 13px;
+    letter-spacing: 0;
+  }
+  .about .top p span {
+    font-size: 13px;
+  }
+  .about .top .container-large .steps {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .about .top .container-large .steps .step {
+    padding: 15px 50px;
+    width: 100%;
+    margin: 0 0 15px 0;
+  }
+  .about .top .container-large .steps .step p.stepP {
+    font-size: 12px;
+  }
+  .about .top .container-large .steps .step p.first {
+    font-size: 12px;
+    margin: 15px 0 5px 0;
+  }
+  .about .top .container-large .steps .step p.second {
+    font-size: 12px;
+    margin: 0;
+  }
+  .about .bottom {
+    padding: 20px 0;
+  }
+  .about .bottom p {
+    font-size: 12px;
+  }
+  .about .bottom p span {
+    font-size: 12px;
+  }
+  .about2 {
+    padding: 20px 0;
+  }
+  .about2 h2 {
+    font-size: 18px;
+    margin: 20px 0 35px 0;
+  }
+  .about2 h2 span {
+    font-size: 12px;
+  }
+  .about2 p.first {
+    font-size: 15px;
+  }
+  .about2 .list {
+    margin: 0 20px 15px 20px;
+    padding: 0 50px;
+  }
+  .about2 .list img {
+    padding: 5%;
+    width: 25%;
+    margin: 0;
+    height: auto;
+  }
+  .about2 p.second {
+    font-size: 12px;
+  }
+  .merit {
+    padding: 30px 0;
+  }
+  .merit .container-small .title {
+    width: 95%;
+    padding: 10px;
+    margin: 0 10px;
+  }
+  .merit .container-small .title h3 {
+    font-size: 15px;
+    margin: 15px  0;
+  }
+  .merit .container-small .title h2 {
+    font-size: 18px;
+    margin: 0;
+  }
+  .merit .merits {
+    margin: 0;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .merit .merits .contents {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 0 15px;
+  }
+  .merit .merits .contents img {
+    height: 120px;
+  }
+  .merit .merits .contents h4 {
+    padding: 0 20px;
+    margin: 10px 0 8px 0;
+    text-align: center;
+    font-size: 15px;
+  }
+  .merit .merits .contents p {
+    padding: 0 20px;
+    font-size: 12px;
+    margin: 8px 0;
+  }
+  .merit .container-large .support {
+    margin: 15px auto;
+    padding: 10px;
+  }
+  .merit .container-large .support h3 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .merit .container-large .support h4 {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .merit .container-large .support p {
+    font-size: 10px;
+    letter-spacing: 0;
+  }
+  .merit p {
+    font-size: 12px;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    letter-spacing: 0;
+  }
+  .members h2 {
+    font-size: 18px;
+  }
+  .members p {
+    font-size: 12px;
+  }
+  .members .teachers-container .teacher {
+    width: 100%;
+  }
+  .members .teachers-container .teacher .img img {
+    width: 120px;
+  }
+  .members .teachers-container .teacher .text-contents {
+    padding: 40px 10px 10px 10px;
+  }
+  .answers .container-small .answer-top {
+    padding: 20px 0;
+  }
+  .answers .container-small .answer-top p.circle {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 12px;
+  }
+  .answers .container-small .answer-top h2 {
+    font-size: 14px;
+    padding: 10px;
+    width: 95%;
+    line-height: 40px;
+  }
+  .answers .container-small .answer-top:after {
+    border: 15px solid transparent;
+    border-top-color: #ebb94d;
+  }
+  .answers .example {
+    padding: 20px 0;
+  }
+  .answers .example h2 {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .answers .example p.first {
+    font-size: 12px;
+  }
+  .answers .example p.second {
+    font-size: 12px;
+    letter-spacing: 0;
+  }
+  .answers .example .container-small780 .presidents .president {
+    margin: 0 10px;
+    padding: 20px 0;
+  }
+  .answers .example .container-small780 .presidents .president img {
+    -ms-flex-item-align: start;
+        align-self: flex-start;
+  }
+  .answers .example .container-small780 .presidents .president .text-contents p.colum {
+    font-size: 14px;
+    margin: -5px 0 10px 0;
+  }
+  .answers .example .container-small780 .presidents .president .text-contents small {
+    font-size: 85%;
+    margin-top: 8px;
+  }
+  .learning-contents .top-contents {
+    padding: 20px 0;
+  }
+  .learning-contents .top-contents h2 {
+    font-size: 18px;
+  }
+  .learning-contents .top-contents p {
+    font-size: 12px;
+  }
+  .learning-contents .top-contents .learning-lists {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .learning-contents .top-contents .learning-lists .learning-list {
+    width: 100%;
+  }
+  .learning-contents .top-contents .learning-lists .learning-list p.title {
+    font-size: 15px;
+  }
+  .learning-contents .top-contents .learning-list.right {
+    margin-top: 15px;
+  }
+  .learning-contents .bottom {
+    padding: 20px 0;
+  }
+  .learning-contents .bottom p {
+    font-size: 15px;
+  }
+  .flow .container-large h2 {
+    font-size: 18px;
+  }
+  .flow .container-large img.first {
+    display: none;
+  }
+  .flow .container-large .flow-box-sp {
+    width: 100%;
+    padding: 20px 15px;
+  }
+  .flow .container-large .flow-box-sp .flow-box {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 5px;
+    padding: 0;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-left {
+    padding: 10px 15px;
+    width: 100%;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-left img {
+    width: 35px;
+    height: 35px;
+    margin-right: 15px;
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-left p.active:after {
+    content: "\f106";
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-left p {
+    display: block;
+    width: 80%;
+    text-align: left;
+    font-size: 15px;
+    margin: 0;
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-left p:active {
+    text-decoration: underline;
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-left p:after {
+    content: "\f107";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 20px;
+    float: right;
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-right {
+    display: none;
+    padding: 15px;
+  }
+  .flow .container-large .flow-box-sp .flow-box .flow-box-right p.bold, .flow .container-large .flow-box-sp .flow-box .flow-box-right p.normal {
+    font-size: 12px;
+    margin: 0 0 10px 0;
+  }
+  .flow .container-large .flow-img {
+    display: none;
+  }
+  .why {
+    padding: 20px 15px;
+  }
+  .why .container-large {
+    margin: 0 20px;
+  }
+  .why .container-large h2 {
+    font-size: 24px;
+    text-align: center;
+    margin: 20px 0px;
+  }
+  .why .container-large p.first {
+    font-size: 12px;
+  }
+  .why .container-large .lists p.list {
+    font-size: 12px;
+  }
+  .why .container-large p.second {
+    font-size: 15px;
+  }
+  .present {
+    padding: 20px 0;
+  }
+  .present .container-large h2 {
+    font-size: 18px;
+    margin: 0 0 20px 0;
+  }
+  .present .container-large h2 span {
+    font-size: 15px;
+  }
+  .present .container-large p.first {
+    font-size: 12px;
+  }
+  .present .container-large p.first span {
+    font-size: 12px;
+  }
+  .present .container-large .big-container {
+    margin: 0 15px;
+  }
+  .present .container-large .big-container p.second {
+    padding: 0 10px;
+    width: 250px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    left: calc((100% - 250px) / 2);
+  }
+  .present .container-large .big-container .special-container {
+    padding: 30px;
+  }
+  .present .container-large .big-container .special-container .box {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .present .container-large .big-container .special-container .box .special {
+    width: 100%;
+    margin: 15px 0;
+  }
+  .present .container-large .big-container .special-container .box .special .circle {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    margin-right: calc(30% - 60px);
+    padding: 0;
+    width: 60px;
+    height: 60px;
+  }
+  .present .container-large .big-container .special-container .box .special .circle p.s-c-first {
+    margin: 0;
+    font-weight: bold;
+    line-height: 60px;
+    width: 60px;
+    height: 60px;
+    font-size: 12px;
+  }
+  .present .container-large .big-container .special-container .box .special .circle p.s-c-second {
+    display: none;
+  }
+  .present .container-large .big-container .special-container .box .special .special-text-sp {
+    display: block;
+    width: 70%;
+    letter-spacing: 0;
+    text-align: left;
+    color: white;
+    font-size: 12px;
+    padding: 12px 0;
+    font-weight: bold;
+  }
+  .not-volunteer {
+    padding: 20px 10px;
+  }
+  .not-volunteer h2.first {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  .not-volunteer p.first {
+    font-size: 12px;
+    margin-bottom: 40px;
+  }
+  .not-volunteer .h2second h2.second {
+    font-size: 19px;
+    padding: 10px;
+    margin: 20px 10px;
+    line-height: 40px;
+  }
+  .not-volunteer p.second {
+    font-size: 12px;
+    margin-bottom: 40px;
+  }
+  .message h2 {
+    font-size: 18px;
+    margin: 20px 0 35px 0;
+  }
+  .message p.top {
+    font-size: 15px;
+  }
+  .message .row {
+    margin: 0 10px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .message .row img {
+    width: 100%;
+    padding: 5px;
+  }
+  .message .row .text-contents {
+    padding: 5px;
+    width: 100%;
+  }
+  .info-form {
+    padding: 20px 15px;
+  }
+  .info-form h2 {
+    font-size: 18px;
+  }
+  .info-form h2 span {
+    font-size: 18px;
+  }
+  .info-form p {
+    font-size: 12px;
+  }
+  .info-form form input {
+    font-size: 14px;
+  }
+  .info-form form textarea {
+    font-size: 14px;
+  }
+  .questions {
+    padding: 20px 15px;
+  }
+  .questions .container-large h2 {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  .questions .container-large h2 span {
+    font-size: 18px;
+  }
+  .questions .container-large .question-list .question a.question-button {
+    font-size: 15px;
+    padding: 10px;
+  }
+  .questions .container-large .question-list .question a.question-button span {
+    font-size: 15px;
+  }
+  .questions .container-large .question-list .question p.answer {
+    font-size: 12px;
+  }
+  footer {
+    padding: 20px 15px 0 0;
+  }
+}
