@@ -133,7 +133,7 @@ header .container-large .title .jump-to-form-sp a {
 }
 
 .top-wrapper .top1 {
-  background-image: url(/img/main.jpg);
+  background-image: url(img/main.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -257,7 +257,7 @@ header .container-large .title .jump-to-form-sp a {
   padding: 40px 0;
   position: relative;
   background-size: cover;
-  background-image: url(/img/introbottom.jpg);
+  background-image: url(img/introbottom.jpg);
   background-position: center;
 }
 
@@ -679,7 +679,7 @@ header .container-large .title .jump-to-form-sp a {
 }
 
 .members {
-  background-image: url(/img/teacherbg.jpg);
+  background-image: url(img/teacherbg.jpg);
   background-size: cover;
   padding: 40px 0;
 }
@@ -862,7 +862,7 @@ header .container-large .title .jump-to-form-sp a {
 }
 
 .learning-contents .top-contents {
-  background-image: url(/img/classbg.jpg);
+  background-image: url(img/classbg.jpg);
   background-size: cover;
   padding: 40px 0;
 }
@@ -1024,7 +1024,7 @@ header .container-large .title .jump-to-form-sp a {
 
 .why {
   padding: 80px;
-  background-image: url(/img/bangkokbg.jpg);
+  background-image: url(img/bangkokbg.jpg);
   background-size: cover;
 }
 
@@ -1164,7 +1164,7 @@ header .container-large .title .jump-to-form-sp a {
 .not-volunteer {
   padding: 40px 0;
   background-size: cover;
-  background-image: url(/img/specialdetail.jpg);
+  background-image: url(img/specialdetail.jpg);
 }
 
 .not-volunteer h2.first {
